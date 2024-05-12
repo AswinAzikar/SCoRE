@@ -1,6 +1,6 @@
 # SCoRE - Secure and Efficient Student Bus Travel
 
-SCoRE (Student Concession and QR Ticketing for Efficient Routes with Live Tracking) is a mobile app designed to simplify student bus travel by integrating concession management, secure QR ticketing, and real-time bus location tracking.
+SCoRE (Student Concession and QR Ticketing and Real-Time Tracking) is a mobile app designed to simplify student bus travel by integrating concession management, secure QR ticketing, and real-time bus location tracking.
 
 ## Abstract
 
